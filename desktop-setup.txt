@@ -1,0 +1,11 @@
+sudo apt update && sudo apt upgrade -y
+sudo adduser vahid
+add the following to : sudo visudo : 
+  vahid   ALL=(ALL:ALL) ALL
+
+sudo apt install xrdp -y 
+sudo systemctl status xrdp 
+
+sudo apt install ubuntu-desktop
+
+sudo reboot 
