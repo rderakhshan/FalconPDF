@@ -1,0 +1,8 @@
+gradio
+pandas
+Jinja2
+torch
+transformers
+langchain
+accelerate
+sentence-transformers
